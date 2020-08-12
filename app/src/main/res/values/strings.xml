@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Economiz Ofertas</string>
+    <string name="hortifruti">Hortifruti</string>
+    <string name="legume_popular">Legume Popular</string>
+    <string name="batata">Batata</string>
+    <string name="_0_00">0.00</string>
+    <string name="vendedor">Vendedor</string>
+    <string name="acesse_as_melhores_ofertas">Acesse as Melhores Ofertas!</string>
+    <string name="ofertas_e_destaques">OFERTAS E DESTAQUES</string>
+    <string name="consultar_ofertas">Consultar Ofertas</string>
+    <string name="validade_da_oferta">Validade da Oferta:</string>
+</resources>
